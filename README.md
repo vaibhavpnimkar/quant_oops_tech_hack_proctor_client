@@ -24,7 +24,8 @@ The Proctoring System is a comprehensive solution designed for secure and effici
    - Utilizes advanced Artificial Intelligence models, specifically Large Language Models (LLM), for intelligent monitoring.
    - Analyzes user interactions and detects anomalies or suspicious behavior.
 
-   ![AI Monitoring](images/ai_monitoring.png)
+   ![AI Monitoring](https://github.com/vaibhavpnimkar/quant_oops_tech_hack_proctor_client/assets/128807866/af4d43b3-8f31-4889-9207-e174a699b9df)
+
 
 3. **Kiosk Mode**
    - Facilitates a secure and controlled testing environment by restricting access to unauthorized applications or resources.
