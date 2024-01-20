@@ -4,8 +4,10 @@ Please Refer To This Links:
 -  [Browser](https://github.com/vaibhavpnimkar/browser)
   
 # Proctoring System
+    ![AI Monitoring]((https://github.com/vaibhavpnimkar/quant_oops_tech_hack_proctor_client/assets/128807866/1ec1bad3-4c70-443a-8507-e2a06991409c)
 
-![Project Logo](link_to_your_logo.png)
+
+
 
 ## Overview
 
