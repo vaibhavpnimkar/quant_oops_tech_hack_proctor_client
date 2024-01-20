@@ -54,13 +54,6 @@ The Proctoring System is a comprehensive solution designed for secure and effici
 
    ![Identity Verification](images/identity_verification.png)
 
-## Getting Started
-
-To get started with the Proctoring System, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/proctoring-system.git
 
 ## How to use
 
