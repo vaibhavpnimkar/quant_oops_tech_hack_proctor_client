@@ -37,7 +37,8 @@ The Proctoring System is a comprehensive solution designed for secure and effici
    - Allows authorized personnel to impersonate users for administrative purposes.
    - Streamlines troubleshooting and support processes.
 
-   ![User Impersonation](images/user_impersonation.png)
+   ![User Impersonation](https://github.com/vaibhavpnimkar/quant_oops_tech_hack_proctor_client/assets/128807866/05877493-1851-42f9-9561-1cd9c41700c0)
+
 
 5. **Document ID Verification**
    - Integrates document verification mechanisms to ensure the authenticity of user-provided identification.
