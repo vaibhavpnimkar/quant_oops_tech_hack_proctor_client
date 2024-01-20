@@ -2,6 +2,60 @@
 Please Refer To This Links:
 -  [Backend Repo](https://github.com/vaibhavpnimkar/quant_oops_tech_hack_proctor_backend)
 -  [Browser](https://github.com/vaibhavpnimkar/browser)
+  
+# Proctoring System
+
+![Project Logo](link_to_your_logo.png)
+
+## Overview
+
+The Proctoring System is a comprehensive solution designed for secure and efficient monitoring during remote examinations. It combines advanced features such as remote monitoring, AI monitoring with LLM models, kiosk mode, user impersonation, document ID verification, and identity verification.
+
+## Features
+
+1. **Remote Monitoring**
+   - Enables real-time monitoring of candidates during remote examinations.
+   - Provides insights into user activity and behavior.
+
+   ![Remote Monitoring](images/remote_monitoring.png)
+
+2. **AI Monitoring with LLM Models**
+   - Utilizes advanced Artificial Intelligence models, specifically Large Language Models (LLM), for intelligent monitoring.
+   - Analyzes user interactions and detects anomalies or suspicious behavior.
+
+   ![AI Monitoring](images/ai_monitoring.png)
+
+3. **Kiosk Mode**
+   - Facilitates a secure and controlled testing environment by restricting access to unauthorized applications or resources.
+   - Enhances the integrity of the examination process.
+
+   ![Kiosk Mode](images/kiosk_mode.png)
+
+4. **User Impersonation**
+   - Allows authorized personnel to impersonate users for administrative purposes.
+   - Streamlines troubleshooting and support processes.
+
+   ![User Impersonation](images/user_impersonation.png)
+
+5. **Document ID Verification**
+   - Integrates document verification mechanisms to ensure the authenticity of user-provided identification.
+   - Enhances the overall security of the system.
+
+   ![Document ID Verification](images/document_id_verification.png)
+
+6. **Identity Verification**
+   - Implements robust identity verification protocols, such as biometric authentication or multi-factor authentication.
+   - Ensures that the correct individuals are participating in the examination.
+
+   ![Identity Verification](images/identity_verification.png)
+
+## Getting Started
+
+To get started with the Proctoring System, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/proctoring-system.git
 
 ## How to use
 
