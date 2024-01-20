@@ -3,6 +3,7 @@
 This is a boilerplate code that is all set to be used, routing powered by React Router.
 
 -  [Backend Repo](https://www.example.com)
+-  [Browser](https://www.example.com)
 
 ## How to use
 
