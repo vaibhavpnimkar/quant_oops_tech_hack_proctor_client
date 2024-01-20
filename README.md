@@ -17,8 +17,8 @@ The Proctoring System is a comprehensive solution designed for secure and effici
    - Enables real-time monitoring of candidates during remote examinations.
    - Provides insights into user activity and behavior.
 
-    ![AI Monitoring](![image](https://github.com/vaibhavpnimkar/quant_oops_tech_hack_proctor_client/assets/128807866/d7ec296e-d29f-417e-8911-49cc202174ba)
-)
+    ![AI Monitoring](https://github.com/vaibhavpnimkar/quant_oops_tech_hack_proctor_client/assets/128807866/d7ec296e-d29f-417e-8911-49cc202174ba)
+
 
 2. **AI Monitoring with LLM Models**
    - Utilizes advanced Artificial Intelligence models, specifically Large Language Models (LLM), for intelligent monitoring.
