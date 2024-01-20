@@ -44,7 +44,8 @@ The Proctoring System is a comprehensive solution designed for secure and effici
    - Integrates document verification mechanisms to ensure the authenticity of user-provided identification.
    - Enhances the overall security of the system.
 
-   ![Document ID Verification](images/document_id_verification.png)
+   ![Document ID Verification](https://github.com/vaibhavpnimkar/quant_oops_tech_hack_proctor_client/assets/128807866/52e67f6f-15d1-4159-a713-99367a0cbf42)
+
 
 6. **Identity Verification**
    - Implements robust identity verification protocols, such as biometric authentication or multi-factor authentication.
