@@ -4,7 +4,7 @@ Please Refer To This Links:
 -  [Browser](https://github.com/vaibhavpnimkar/browser)
   
 # Proctoring System
-    ![AI Monitoring](https://github.com/vaibhavpnimkar/quant_oops_tech_hack_proctor_client/assets/128807866/1ec1bad3-4c70-443a-8507-e2a06991409c)
+    ![AI Monitoring]([https://github.com/vaibhavpnimkar/quant_oops_tech_hack_proctor_client/assets/128807866/1ec1bad3-4c70-443a-8507-e2a06991409c](https://github-production-user-asset-6210df.s3.amazonaws.com/128807866/298311628-1ec1bad3-4c70-443a-8507-e2a06991409c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240120%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240120T230116Z&X-Amz-Expires=300&X-Amz-Signature=19fc0f548ba79c706ba648310fdec654b8ee6b055f4d0dd38156e7d517c014b8&X-Amz-SignedHeaders=host&actor_id=128807866&key_id=0&repo_id=746040795))
 
 
 
