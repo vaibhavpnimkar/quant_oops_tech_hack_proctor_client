@@ -1,6 +1,4 @@
-# React + TailwindCSS + shadnc/ui Boilerplate
 
-This is a boilerplate code that is all set to be used, routing powered by React Router.
 
 -  [Backend Repo](https://github.com/vaibhavpnimkar/quant_oops_tech_hack_proctor_backend)
 -  [Browser](https://github.com/vaibhavpnimkar/browser)
